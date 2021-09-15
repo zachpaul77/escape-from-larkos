@@ -1,8 +1,8 @@
-#About
+# About
 Escape from LarkOS is a text-based puzzle game with a focus on teaching basic BASH commands. This is a project from my Intro to Unix course.
 
 
-#Rules / Info
+# Rules / Info
 
 1. This game runs on any Linux distribution inside the terminal.
 2. Make sure your terminal has at least 40 rows and 152 columns.
